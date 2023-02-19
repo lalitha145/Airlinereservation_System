@@ -1,7 +1,9 @@
-# Airlinereservation_System
-Introduction:
 
-    In this project, I’ll show you how to create an Airline reservation system using java. This is a command-line user interface-based
+ 
+ 
+ Introduction:
+
+ In this project, I’ll show you how to create an Airline reservation system using java. This is a command-line user interface-based
 airline reservation system that allows you to check seat availability and reserve a seat if it is available. The system is designed with a switch case
 that gives you three options: view available seats, and reserve a seat. So, get a cup of coffee and use the airline reservation system.
 
